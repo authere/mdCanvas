@@ -1,3 +1,14 @@
+Forked from https://github.com/jerik/mdCanvas
+
+# Enhancement are:
+ - Default markdown file is index.md
+ - Section separation with "\n\n---\n\n"
+ - Each section's first line is senction name which starts with any level header.
+ - The first line of markdown file is project name which starts with any level header.
+ - see example [index.md](index.md)
+
+---
+
 # mdCanvas
 Create a Lean Canvas out of a markdown list 
 
